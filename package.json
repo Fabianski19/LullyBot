@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "name": "lullybot",
+  "version": "1.0.0",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabianski19/LullyBot.git"
+  },
+  "keywords": [],
+  "author": "Fabianski19",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fabianski19/LullyBot/issues"
+  },
+  "homepage": "https://github.com/Fabianski19/LullyBot#readme",
+  "description": ""
+}
